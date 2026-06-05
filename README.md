@@ -1,4 +1,4 @@
-# Alibaba-MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability-155stars
+# MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability[Alibaba Paper Code Fork][155stars]
 
 ![](https://img.shields.io/badge/version-1.0.0-blue)[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)[![arxiv badge](https://img.shields.io/badge/arxiv-2505.20285-red)](https://arxiv.org/abs/2505.20285)
 
